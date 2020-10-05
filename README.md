@@ -4,7 +4,7 @@ Starting September 2020, notebook items in course shells will become Ungraded La
 
 Welcome to the second programming exercise of the deep learning specialization. In this notebook you will generate red and blue points to form a flower. You will then fit a neural network to correctly classify the points. You will try different layers and see the results.
 
-![screen](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/ZWaFhXvJEee4vAqXrrsRwg_d82c6d2cd5729c93fb76e37260abcbd2_Screen-Shot-2017-08-07-at-4.36.57-PM.png?expiry=1601856000000&hmac=vbu_LKLcjHRy4tDrqSPpXz8k0d9r9oUKdRHxNo27d0k)
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/ZWaFhXvJEee4vAqXrrsRwg_d82c6d2cd5729c93fb76e37260abcbd2_Screen-Shot-2017-08-07-at-4.36.57-PM.png?expiry=1602028800000&hmac=9KWqeJ0ytRIhnMIQIKGihyPJwCYp63OWMSGEXoCU1_M)
 
 By completing this assignment you will:
 
